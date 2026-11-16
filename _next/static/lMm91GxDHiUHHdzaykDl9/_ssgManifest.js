@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fmy\u002Fbookings\u002F[id]","\u002Fpackages\u002F[code]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
